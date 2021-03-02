@@ -1,4 +1,4 @@
-save_users_business_reviews_yelp_json_file_here
+save users, business, reviews json files from Yelp dataset here
 
 You can get data from
 
