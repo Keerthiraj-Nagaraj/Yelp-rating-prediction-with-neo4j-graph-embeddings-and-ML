@@ -1,4 +1,4 @@
-# yelp_rating_prediction
+# Yelp Rating Prediction with and without Graph Embeddings from Neo4j
  Exploring machine learning and graph embedding concepts to build model to predict user rating for various restaurants from yelp data
  
 ### Folders
